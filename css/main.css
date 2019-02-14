@@ -19,3 +19,11 @@ html {
 body {
   margin: 0;
 }
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+}
